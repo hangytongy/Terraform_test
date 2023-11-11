@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "example" {
-  bucket = "jaz-bucket-1239696823dd4"
+  bucket = "hangytong-lfg"
 
   tags = {
     Environment = "Dev"
